@@ -1,0 +1,7 @@
+{
+  plugins = {
+    lean = {
+      enable = true;
+    };
+  };
+}
