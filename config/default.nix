@@ -28,7 +28,8 @@ _: {
     ./plugins/editor/todo-comments.nix
     ./plugins/editor/copilot-chat.nix
     ./plugins/editor/navic.nix
-
+    ./plugins/editor/lean.nix
+    
     # UI plugins
     ./plugins/ui/bufferline.nix
     ./plugins/ui/lualine.nix
